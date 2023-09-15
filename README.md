@@ -5,7 +5,7 @@ The notebook contains the EDA, feature selection, preprocessing, PCA for best fe
 
 ## Metrics for each model
 #### KNN 
-       precision    recall  f1-score  
+####      precision    recall  f1-score  
 0       0.93      0.98      0.95      
 1       0.84      0.59      0.70       
 
