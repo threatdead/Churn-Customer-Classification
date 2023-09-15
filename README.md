@@ -12,7 +12,7 @@ precision    recall  f1-score
 accuracy: 0.92
 
 #### RandomForestClassifier with default parameters
-      precision    recall  f1-score  
+precision    recall  f1-score  
 0       0.97      0.99      0.98      
 1       0.92      0.83      0.88     
 
@@ -21,9 +21,9 @@ accuracy: 0.96
 #### RandomForestClassifier with GridSearch parameters
 best_params: n_estimators=1000, max_depth = 20
 
-      precision    recall  f1-score   
+precision    recall  f1-score   
 0       0.97      0.99      0.98      
 1       0.92      0.84      0.88       
 
-accuracy                           0.96      
+accuracy: 0.96      
   
